@@ -25,6 +25,11 @@ Sree Vidyanikethan Engineering College, 2023
 
 ---
 
+## Certifications
+- **Microsoft Azure Fundamentals(AZ-900)**, Sep 2024
+
+---
+
 ## Conferences
 - **National Conference on Knowledge, Innovations, and Technologies for Sustainability (NCKITS)**, 2022
 
