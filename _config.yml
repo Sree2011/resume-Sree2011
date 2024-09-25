@@ -1,6 +1,8 @@
 title: Resume - Sree Sai Nandini Gundraju
-description: My resume using github pages
-
+description: Mahal, Andhra Pradesh, India | sreesainandinigundraju@gmail.com | +91 9390546597
+social links:
+  - linkedin: https://www.linkedin.com/in/g-sree-sai-nandini/
+  - github: https://www.github.com/Sree2011/
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
