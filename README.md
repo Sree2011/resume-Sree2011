@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Resume - Sree Sai Nandini Gundraju"
+pdf: true
+---
+
 # SREE SAI NANDINI GUNDRAJU
 
 ## Objective
