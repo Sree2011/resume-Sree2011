@@ -1,11 +1,3 @@
-# SREE SAI NANDINI GUNDRAJU
-
-**Email:** sreesainandinigundraju@gmail.com
-**Phone:** +91 9390546597  
-**Address:** Mahal, Andhra Pradesh, India
-
----
-
 ## Objective
 Seeking a challenging role as a Power Systems Engineer or Software Developer to leverage my technical expertise in electrical engineering, programming languages (C, Java, Python, MATLAB), and cloud technologies (Azure) to develop innovative solutions that bridge the gap between power systems and the IT world.
 ---
